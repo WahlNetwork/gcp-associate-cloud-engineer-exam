@@ -19,7 +19,7 @@ Contributions via GitHub pull requests are gladly accepted from their original a
 
 ### Code of Conduct
 
-All contributors are expected to abide by the [Code of Conduct](COC.md).
+All contributors are expected to abide by the [Code of Conduct](https://github.com/WahlNetwork/welcome/blob/master/COC.md).
 
 ### License
 
